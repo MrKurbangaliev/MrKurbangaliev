@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 👨‍🎓 Education
+- I'm currently studying Computer Science at [Vasyl' Stus DonNU](https://www.donnu.edu.ua/en/)
+- I've attended [UP FAMNIT](https://www.famnit.upr.si/en) CS course virtually for a year
+- 📱 I was studying Android Basics Java course on [Udacity](https://www.udacity.com/)
+
+## 👨‍💻 Learning journey
+- I've completed C# course on [Codecademy](https://www.codecademy.com/)
+
 <!--
 **MrKurbangaliev/MrKurbangaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
