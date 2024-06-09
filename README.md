@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Education
 - I'm currently studying Computer Science at [Vasyl' Stus DonNU](https://www.donnu.edu.ua/en/)
-- I've attended [UP FAMNIT](https://www.famnit.upr.si/en) CS course virtually for a year
+- I've attended [UP FAMNIT](https://www.famnit.upr.si/en) CS 1st year course virtually for a year
 - 📱 I was studying Android Basics Java course on [Udacity](https://www.udacity.com/)
 
 ## 👨‍💻 Learning journey
